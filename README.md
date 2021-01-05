@@ -3,7 +3,7 @@
 ### I'm a Full Stack Developer, Who loves to push outside his comfort zone.
 
 -------------------------------------------------------------------------
-• ❤️ I'm currently learning React, JavaScript, Ruby, Ruby on Rails and some Firebase.
+• ❤️ I'm currently learning React, Redux, JavaScript, Ruby, Ruby on Rails and Firebase.
 <br/>
 • 🤡 I'm looking to collaborate with other software developers to further my knowledge.
 <br/>
@@ -19,6 +19,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
 
 <img align="left" alt="Ruby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
 
