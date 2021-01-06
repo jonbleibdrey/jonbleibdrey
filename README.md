@@ -1,11 +1,13 @@
 ### Hi there, I,m Jonathan 👋
 
-### I'm a Full Stack Developer, Who loves to push outside his comfort zone.
+### I'm a Full Stack Developer, that knows the only way to grow is to push himself outside his comfort zone.
 
 -------------------------------------------------------------------------
 • ❤️ I'm currently learning React, Redux, JavaScript, Ruby, Ruby on Rails and Firebase.
 <br/>
 • 🤡 I'm looking to collaborate with other software developers to further my knowledge.
+<br/>
+• 🏋 I believe you can do anything you want to do. All you have to do is do it enough times.
 <br/>
 • 👾 2021 Goals: Master React, Build 1 project a week, and be patient with myself while doing so.
 <br/>
