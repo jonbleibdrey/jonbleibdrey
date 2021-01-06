@@ -1,4 +1,4 @@
-### Hi there, I,m Jonathan 👋
+### Hi there, I'm Jonathan 👋
 
 ### I'm a Full Stack Developer that pushes himself outside his comfort zone.
 
