@@ -1,6 +1,6 @@
 ### Hi there, I,m Jonathan 👋
 
-### I'm a Full Stack Developer, that knows the only way to grow is to push himself outside his comfort zone.
+### I'm a Full Stack Developer that pushes himself outside his comfort zone.
 
 -------------------------------------------------------------------------
 • ❤️ I'm currently learning React, Redux, JavaScript, Ruby, Ruby on Rails and Firebase.
