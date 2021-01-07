@@ -14,8 +14,14 @@
 • 📷 Fun Fact: I love to do Street Photography, draw human's as ther natural state, strive to be the most authentic me and play guitar.
 <br/>
 
-------------------------------------------------------------------------
-### What i know:
+
+
+
+
+
+
+
+### What i use:
 
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -39,7 +45,14 @@
 <br />
 <br />
 
--------------------------------------------------------------------
+
+
+
+
+
+
+
+
 ### Social Media:
 
 <a href="https://www.linkedin.com/mwlite/in/jonathan-bleibdrey-4032171b9">Linkedin</a>
