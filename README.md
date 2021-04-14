@@ -3,13 +3,13 @@
 ### I'm a Full Stack Developer that pushes himself outside his comfort zone.
 
 -------------------------------------------------------------------------
-• ❤️ I'm currently learning React, Redux, JavaScript, Ruby, Ruby on Rails and Firebase.
+• ❤️ I'm Play with React, JavaScript, Ruby, Ruby on Rails and Firebase, mostly!
 <br/>
-• 🤡 I'm looking to collaborate with other software developers to further my knowledge.
+• 🤡 I'm looking to collaborate with anyone in the software development realm to further my knowledge.
 <br/>
 • 🏋 I believe you can do anything you want to do. All you have to do is do it enough times.
 <br/>
-• 👾 2021 Goals: Master React, Build 1 project a week, and be patient with myself while doing so.
+• 👾 2021 Goals: Master React, Build 1 project a month, and be patient with myself while doing so.
 <br/>
 • 📷 Fun Fact: I love to do Street Photography, draw human's as ther natural state, strive to be the most authentic me and play guitar.
 <br/>
