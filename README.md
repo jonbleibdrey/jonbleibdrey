@@ -47,13 +47,13 @@
 
 ### Social Media:
 
-<a href="https://www.linkedin.com/mwlite/in/jonathan-bleibdrey-4032171b9">Linkedin</a>
+<a href="https://www.linkedin.com/mwlite/in/jonathan-bleibdrey-4032171b9" target="_blank" rel="noopener noreferrer">Linkedin</a>
 <br/>
-<a href="https://jonbleibdrey.medium.com/">Medium</a>
+<a href="https://jonbleibdrey.medium.com/" target="_blank" rel="noopener noreferrer">Medium</a>
 <br/>
-<a href="https://www.facebook.com/jbleibdrey/">Facebook</a>
+<a href="https://www.facebook.com/jbleibdrey/" target="_blank" rel="noopener noreferrer">Facebook</a>
 <br/>
-<a href="http://www.instagram.com/johnnyb.exploration/">Instagram</a>
+<a href="http://www.instagram.com/johnnyb.exploration/" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 ---------------------------------------------------------------
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jonbleibdrey)
