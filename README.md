@@ -53,7 +53,7 @@
 <br/>
 <a href="https://www.facebook.com/jbleibdrey/" target="_blank" rel="noopener noreferrer">Facebook</a>
 <br/>
-<a href="http://www.instagram.com/johnnyb.exploration/" target="_blank" rel="noopener noreferrer">Instagram</a>
+<a href="https://www.instagram.com/ournaturalstateofbeing/" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 ---------------------------------------------------------------
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jonbleibdrey)
